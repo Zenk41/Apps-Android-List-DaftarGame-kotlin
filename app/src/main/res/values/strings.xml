@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DaftarGame</string>
+    <string name="nama_ku">ARDHI RAMADHANI</string>
+    <string name="email_ku">ardhidhani@gmail.com</string>
+    <string name="game_name">Nama Game</string>
+    <string name="detail_game">Detail Game :</string>
+    <string name="nama_gamenya">Nama Gamenya</string>
+    <string name="pengembangnya">Pengembangnya</string>
+    <string name="rating">RATING :</string>
+    <string name="ratingnya">Ratingnya</string>
+    <string name="genrenya">Genrenya</string>
+    <string name="platform">Platform :</string>
+    <string name="platformnya">Platformnya</string>
+    <string name="pengembang">Pengembang :</string>
+    <string name="nama_game">Nama Game:</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="genre">GENRE</string>
+</resources>
